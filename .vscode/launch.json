@@ -1,0 +1,189 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "InfoGempa",
+      "request": "launch",
+      "mainClass": "Praktikum04.latihan.InfoGempa",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "Transaksi",
+      "request": "launch",
+      "mainClass": "Praktikum04.oop.Transaksi",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "BacaTerminal",
+      "request": "launch",
+      "mainClass": "Praktikum01.BacaTerminal",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "BelajarIf",
+      "request": "launch",
+      "mainClass": "Praktikum01.BelajarIf",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "BoxMasukan",
+      "request": "launch",
+      "mainClass": "Praktikum01.BoxMasukan",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "HitungRataRata",
+      "request": "launch",
+      "mainClass": "Praktikum01.HitungRataRata",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "Nilai",
+      "request": "launch",
+      "mainClass": "Praktikum01.Nilai",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "Operasi1",
+      "request": "launch",
+      "mainClass": "Praktikum01.Operasi1",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "Piramid",
+      "request": "launch",
+      "mainClass": "Praktikum01.Piramid",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "Salam",
+      "request": "launch",
+      "mainClass": "Praktikum01.Salam",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "UpahLembur",
+      "request": "launch",
+      "mainClass": "Praktikum01.UpahLembur",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "Var1",
+      "request": "launch",
+      "mainClass": "Praktikum01.Var1",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "Casting",
+      "request": "launch",
+      "mainClass": "Praktikum02.Dasar.Casting",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "Looping1",
+      "request": "launch",
+      "mainClass": "Praktikum02.Dasar.Looping1",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "Looping2",
+      "request": "launch",
+      "mainClass": "Praktikum02.Dasar.Looping2",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "Siswa",
+      "request": "launch",
+      "mainClass": "Praktikum02.Dasar.Siswa",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "StrukturKendali",
+      "request": "launch",
+      "mainClass": "Praktikum02.Dasar.StrukturKendali",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "JavaxSwing",
+      "request": "launch",
+      "mainClass": "Praktikum02.praktek.JavaxSwing",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "ScannerDemo",
+      "request": "launch",
+      "mainClass": "Praktikum02.praktek.ScannerDemo",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "ArrayCampuran",
+      "request": "launch",
+      "mainClass": "Praktikum03.array.ArrayCampuran",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "HimpunanNilai",
+      "request": "launch",
+      "mainClass": "Praktikum03.array.HimpunanNilai",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "PesepakBola",
+      "request": "launch",
+      "mainClass": "Praktikum03.array.PesepakBola",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "HitungLuas",
+      "request": "launch",
+      "mainClass": "Praktikum03.method.HitungLuas",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "OlahNilai",
+      "request": "launch",
+      "mainClass": "Praktikum03.method.OlahNilai",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "PencetakArray",
+      "request": "launch",
+      "mainClass": "Praktikum03.method.PencetakArray",
+      "projectName": "pbo_7751eba4"
+    }
+  ]
+}
