@@ -1,4 +1,4 @@
-package Pratikum02.Dasar;
+package Praktikum02.Dasar;
 
 public class StrukturKendali {
     public static void main(String[] args) {

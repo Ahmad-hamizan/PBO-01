@@ -1,4 +1,4 @@
-package Pratikum02.praktek;
+package Praktikum02.praktek;
 
 import java.util.Scanner;
 

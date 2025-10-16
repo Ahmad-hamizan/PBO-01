@@ -1,4 +1,4 @@
-package Pratikum02.Dasar;
+package Praktikum02.Dasar;
 
 // While
 public class Looping2 {
