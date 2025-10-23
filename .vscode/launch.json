@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestAnimal",
+      "request": "launch",
+      "mainClass": "Praktikum05.latihan.TestAnimal",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
       "name": "CivitasKampus",
       "request": "launch",
       "mainClass": "Praktikum05.inheritance.CivitasKampus",
