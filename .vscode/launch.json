@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "KumpulanBentuk",
+      "request": "launch",
+      "mainClass": "Praktikum06.tugas.KumpulanBentuk",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "SuaraHewan",
+      "request": "launch",
+      "mainClass": "Praktikum06.abstracts.SuaraHewan",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
       "name": "TestAnimal",
       "request": "launch",
       "mainClass": "Praktikum05.latihan.TestAnimal",
