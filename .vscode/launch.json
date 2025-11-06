@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ProgramKonversi",
+      "request": "launch",
+      "mainClass": "Praktikum07.latihan.ProgramKonversi",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "CelciusFahrenheit",
+      "request": "launch",
+      "mainClass": "Praktikum07.latihan.CelciusFahrenheit",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "KumpulanAsset",
+      "request": "launch",
+      "mainClass": "Praktikum07.interfaces.KumpulanAsset",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "SuaraMusik",
+      "request": "launch",
+      "mainClass": "Praktikum07.interfaces.SuaraMusik",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
       "name": "KumpulanBentuk",
       "request": "launch",
       "mainClass": "Praktikum06.tugas.KumpulanBentuk",
