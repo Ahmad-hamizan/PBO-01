@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MapPresidenRI",
+      "request": "launch",
+      "mainClass": "Praktikum09.tugas.MapPresidenRI",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "ListBarang",
+      "request": "launch",
+      "mainClass": "Praktikum09.tugas.ListBarang",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "MapTelepon",
+      "request": "launch",
+      "mainClass": "Praktikum09.koleksi.MapTelepon",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "ListMataKuliah",
+      "request": "launch",
+      "mainClass": "Praktikum09.koleksi.ListMataKuliah",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
       "name": "ProgramKonversi",
       "request": "launch",
       "mainClass": "Praktikum07.latihan.ProgramKonversi",
