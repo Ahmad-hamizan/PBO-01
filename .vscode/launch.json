@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PraktekFinally",
+      "request": "launch",
+      "mainClass": "Praktikum10.asdos.PraktekFinally",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "PraktekEksepsi",
+      "request": "launch",
+      "mainClass": "Praktikum10.asdos.PraktekEksepsi",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "Hitungs",
+      "request": "launch",
+      "mainClass": "Praktikum10.asdos.Hitungs",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
+      "name": "MainApp",
+      "request": "launch",
+      "mainClass": "Praktikum10.exception.MainApp",
+      "projectName": "pbo_7751eba4"
+    },
+    {
+      "type": "java",
       "name": "MapPresidenRI",
       "request": "launch",
       "mainClass": "Praktikum09.tugas.MapPresidenRI",
